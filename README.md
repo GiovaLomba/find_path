@@ -1,4 +1,4 @@
-## find_path [![HitCount](http://hits.dwyl.io/GiovaLomba/wd.svg?style=plastic)](http://hits.dwyl.io/GiovaLomba/find_content)
+## find_path [![HitCount](http://hits.dwyl.io/GiovaLomba/wd.svg?style=plastic)](http://hits.dwyl.io/GiovaLomba/find_path)
 
 It looks for items into the target location whose pathname matches the
 given pattern. The name `find_path` has been chosen keeping account of
