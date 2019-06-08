@@ -41,7 +41,7 @@ exposes to the users, how and when should they be used.
 (c) 2019 Giovanni Lombardo mailto://g.lombardo@protonmail.com
 find_path version 1.0.0
 
-usage: whereis.py [-h] [-bf [BEFORE]] [-af [AFTER]] [-ac] [-ae] [-aa]
+usage: find_path.exe [-h] [-bf [BEFORE]] [-af [AFTER]] [-ac] [-ae] [-aa]
                   [-p [PROC]] [-v]
                   location pattern
 
