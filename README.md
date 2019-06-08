@@ -28,7 +28,7 @@ software application implements as defaults behaviours:
 
 - By default it uses `1` single process in a sequential fashion [ this
   because in most of the cases `1` process performs significantly better
-  than more than one does.
+  than more than one does].
  
  You knows: *good fences make good neighbours!*
  
@@ -39,7 +39,7 @@ exposes to the users, how and when should they be used.
 
 ```
 (c) 2019 Giovanni Lombardo mailto://g.lombardo@protonmail.com
-whereis.py version 1.0.0
+find_path version 1.0.0
 
 usage: whereis.py [-h] [-bf [BEFORE]] [-af [AFTER]] [-ac] [-ae] [-aa]
                   [-p [PROC]] [-v]
@@ -96,7 +96,7 @@ please request the features, it may be even quick and easy to implement.
    -  **SHA256**
       |5b643c8f4d2adae05ba5d874f201aee792c71cb1f85a756daa3bb26d0e426fa4|
    -  **VirusTotal**
-      |[VirusTotal](https://www.virustotal.com/gui/file/cd76e8c7395b7f477167c186bc86facee92ced0d05429b64c2479ac7f7a22fda/detection)|
+      |[VirusTotal](https://www.virustotal.com/gui/file/5b643c8f4d2adae05ba5d874f201aee792c71cb1f85a756daa3bb26d0e426fa4/detection)|
       
 #### Powered by
 
