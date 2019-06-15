@@ -98,6 +98,11 @@ please request the features, it may be even quick and easy to implement.
    -  **VirusTotal**
       |[VirusTotal](https://www.virustotal.com/gui/file/5b643c8f4d2adae05ba5d874f201aee792c71cb1f85a756daa3bb26d0e426fa4/detection)|
       
+ + [Mac OS X 10.14](https://github.com/GiovaLomba/find_path/raw/master/find_path_osx)
+   - **MD5**        |41b8eadb8c065362e69fc90155912c30|
+   - **SHA256**     |fa373edd044c81d52440b4f95c666ab06215bd23f4db7f0fa0c9cc027c9f94e5|
+   - **VirusTotal** |[VirusTotal](https://www.virustotal.com/gui/file/fa373edd044c81d52440b4f95c666ab06215bd23f4db7f0fa0c9cc027c9f94e5/detection)|
+      
 #### Powered by
 
 ![Python](https://www.python.org/static/img/python-logo.png "Python")
